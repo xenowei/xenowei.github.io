@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>狗窝</title>
+  <icon>https://xenowei.me/icon.png</icon>
+  <subtitle>半调子前端狗的碎碎念</subtitle>
+  <link href="https://xenowei.me/atom.xml" rel="self"/>
+  
+  <link href="https://xenowei.me/"/>
+  <updated>2020-10-08T02:56:07.566Z</updated>
+  <id>https://xenowei.me/</id>
+  
+  <author>
+    <name>异度威</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://xenowei.me/archives/4a17b156.html"/>
+    <id>https://xenowei.me/archives/4a17b156.html</id>
+    <published>2020-09-30T14:03:20.554Z</published>
+    <updated>2020-10-08T02:56:07.566Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>

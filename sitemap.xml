@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://xenowei.me/404.html</loc>
+    
+    <lastmod>2020-10-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xenowei.me/categories/index.html</loc>
+    
+    <lastmod>2020-10-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xenowei.me/about/index.html</loc>
+    
+    <lastmod>2020-10-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xenowei.me/tags/index.html</loc>
+    
+    <lastmod>2020-10-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xenowei.me/archives/4a17b156.html</loc>
+    
+    <lastmod>2020-10-08</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>https://xenowei.me/</loc>
+    <lastmod>2020-10-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+
+  
+</urlset>
